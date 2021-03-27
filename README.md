@@ -9,8 +9,6 @@ Learning about vectors and matrices through programming
  - Linear dependancy
  - Subspaces
  - Dot & Cross products
- - Matrices
- - Transformations
 
 # How I learned
 I learned by spending my spare time at home researching new ideas that I found interesting. <br/>
